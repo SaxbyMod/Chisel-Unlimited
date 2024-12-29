@@ -1,0 +1,16 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-28 23:29:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_gravelly_hills": "2024-12-28 23:29:31 -0500",
+      "minecraft:plains": "2024-12-28 23:29:12 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 4189
+}

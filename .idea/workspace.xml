@@ -63,18 +63,18 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.C:/Users/Thinc/Downloads/Chisel Unlimited (Forge) [createMcpToSrg].executor": "Run",
-    "Gradle.forge-1.21.4-54.0.12-mdk [runClient].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "<unknown>",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Thinc/Downloads/Chisel Unlimited (Forge)",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.C:/Users/Thinc/Downloads/Chisel Unlimited (Forge) [createMcpToSrg].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.forge-1.21.4-54.0.12-mdk [runClient].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;&lt;unknown&gt;&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Thinc/Downloads/Chisel Unlimited (Forge)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Thinc\Downloads\Chisel Unlimited (Forge)\src\main\resources\assets\chisel_unlimited\textures\item" />

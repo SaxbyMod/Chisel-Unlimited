@@ -17,8 +17,8 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, ChiselUnlimited.MOD_ID);
 
     // Test Item
-    public static final RegistryObject<Item> Alexandrite = ITEMS.register("alexandrite", () -> new Item(new Item.Properties().useItemDescriptionPrefix().setId(ResourceKey.create(Registries.ITEM, ResourceLocation.parse("chisel_unlimited::alexandrite")))));
-    public static final RegistryObject<Item> Raw_Alexandrite = ITEMS.register("raw_alexandrite", () -> new Item(new Item.Properties().useItemDescriptionPrefix().setId(ResourceKey.create(Registries.ITEM, ResourceLocation.parse("chisel_unlimited:raw_alexandrite")))));
+    public static final RegistryObject<Item> Alexandrite = ITEMS.register("alexandrite", () -> new Item(new Item.Properties().useItemDescriptionPrefix().setId(ResourceKey.create(Registries.ITEM, ResourceLocation.fromNamespaceAndPath(ChiselUnlimited.MOD_ID, "alexandrite")))));
+    public static final RegistryObject<Item> Raw_Alexandrite = ITEMS.register("raw_alexandrite", () -> new Item(new Item.Properties().useItemDescriptionPrefix().setId(ResourceKey.create(Registries.ITEM, ResourceLocation.fromNamespaceAndPath(ChiselUnlimited.MOD_ID, "raw_alexandrite")))));
 
     // Pass the EventBus to the Registry
     public static void register(IEventBus eventBus) {

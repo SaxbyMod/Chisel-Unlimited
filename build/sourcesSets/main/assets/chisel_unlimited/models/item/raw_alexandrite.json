@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "chisel_unlimited:item/raw_alexandrite"
+    "layer0": "chisel_unlimited:textures/item/raw_alexandrite"
   }
 }
